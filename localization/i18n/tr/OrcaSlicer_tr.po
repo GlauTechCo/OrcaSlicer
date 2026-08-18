@@ -738,7 +738,6 @@ msgstr "Sabit adım sürükleme"
 msgid "Context Menu"
 msgstr "Bağlam Menüsü"
 
-# AI Translated
 msgid "Toggle Auto-Drop"
 msgstr "Otomatik düşürmeyi aç / kapat"
 
@@ -791,7 +790,6 @@ msgstr "Nesne"
 msgid "Part"
 msgstr "Parça"
 
-# AI Translated
 msgid "Relative"
 msgstr "Göreceli"
 
@@ -2734,7 +2732,6 @@ msgstr "Simit"
 msgid "Orca Cube"
 msgstr "Orca Küpü"
 
-# AI Translated
 msgid "OrcaSliced Combo"
 msgstr "Orca Dilimleme Paketi"
 
@@ -2815,7 +2812,6 @@ msgstr "Yatağın kalan alanını seçilen nesnenin kopyalarıyla doldurun"
 msgid "Printable"
 msgstr "Yazdırılabilir"
 
-# AI Translated
 msgid "Auto Drop"
 msgstr "Otomatik düşür"
 
@@ -5759,7 +5755,6 @@ msgstr "Normal mod"
 msgid "Total Filament"
 msgstr "Toplam filament"
 
-# AI Translated
 msgid "Model Filament"
 msgstr "Model filamenti"
 
@@ -6284,7 +6279,6 @@ msgstr "Kurulum sihirbazı"
 msgid "Show Configuration Folder"
 msgstr "Yapılandırma klasörünü göster"
 
-# AI Translated
 msgid "Troubleshoot Center"
 msgstr "Sorun giderme merkezi"
 
@@ -6542,11 +6536,9 @@ msgstr "Düzen"
 msgid "View"
 msgstr "Görünüm"
 
-# AI Translated
 msgid "Preset Bundle"
 msgstr "Ön ayar paketi"
 
-# AI Translated
 msgid "Sync Presets"
 msgstr "Ön ayarları eşitle"
 
@@ -6601,7 +6593,6 @@ msgstr "Input shaping"
 msgid "VFA"
 msgstr "VFA"
 
-# AI Translated
 msgid "Calibration Guide"
 msgstr "Kalibrasyon kılavuzu"
 
@@ -8219,7 +8210,6 @@ msgstr "Bu dosyalar birden fazla parçadan oluşan tek bir nesne olarak mı yük
 msgid "An object with multiple parts was detected"
 msgstr "Birden fazla parçaya sahip nesne algılandı"
 
-# AI Translated
 msgid "Auto-Drop"
 msgstr "Otomatik düşür"
 
@@ -8296,7 +8286,6 @@ msgstr "Seçilen nesne bölünemedi."
 msgid "Split to Objects"
 msgstr "Nesnelere Ayır"
 
-# AI Translated
 msgid "Disable Auto-Drop to preserve Z positioning?\n"
 msgstr "Z konumunu korumak için Otomatik düşürme devre dışı bırakılsın mı?\n"
 
@@ -12920,7 +12909,6 @@ msgstr "Çıkıntı bu belirtilen eşiği aştığında, soğutma fanını aşa�
 msgid "External bridge infill direction"
 msgstr "Dış köprü dolgu yönü"
 
-# AI Translated
 #, no-c-format, no-boost-format
 msgid ""
 "External Bridging angle override.\n"
@@ -12944,7 +12932,6 @@ msgstr ""
 msgid "Internal bridge infill direction"
 msgstr "İç köprü dolgu yönü"
 
-# AI Translated
 msgid ""
 "Internal Bridging angle override.\n"
 "If left to zero, the bridging angle will be calculated automatically for each specific bridge.\n"
@@ -12964,7 +12951,6 @@ msgstr ""
 "\n"
 "Sıfır mutlak açı için 180° kullanın."
 
-# AI Translated
 msgid "Relative bridge angle"
 msgstr "Göreceli köprü açısı"
 
@@ -20281,7 +20267,6 @@ msgstr "Sistem klasörü silinemedi..."
 msgid "Failed to determine executable path."
 msgstr "Yürütülebilir dosya yolu belirlenemedi."
 
-# AI Translated
 msgid "Failed to launch a new instance."
 msgstr "Yeni bir kopya başlatılamadı."
 
