@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: Orca Slicer\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2026-08-19 14:07-0300\n"
-"PO-Revision-Date: 2026-08-04 19:36+0300\n"
+"PO-Revision-Date: 2026-08-20 18:29+0300\n"
 "Last-Translator: GlauTech\n"
 "Language-Team: \n"
 "Language: tr\n"
@@ -14,27 +14,21 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=(n==1) ? 0 : 1;\n"
 "X-Generator: Poedit 3.9\n"
 
-# AI Translated
 msgid "Main Extruder"
 msgstr "Ana Ekstruder"
 
-# AI Translated
 msgid "Main extruder"
 msgstr "Ana ekstruder"
 
-# AI Translated
 msgid "main extruder"
 msgstr "ana ekstruder"
 
-# AI Translated
 msgid "Auxiliary Extruder"
 msgstr "Yardımcı Ekstruder"
 
-# AI Translated
 msgid "Auxiliary extruder"
 msgstr "Yardımcı ekstruder"
 
-# AI Translated
 msgid "auxiliary extruder"
 msgstr "yardımcı ekstruder"
 
@@ -56,27 +50,21 @@ msgstr "Sağ ekstruder"
 msgid "right extruder"
 msgstr "sağ ekstruder"
 
-# AI Translated
 msgid "Main Nozzle"
 msgstr "Ana Nozul"
 
-# AI Translated
 msgid "Main nozzle"
 msgstr "Ana nozul"
 
-# AI Translated
 msgid "main nozzle"
 msgstr "ana nozul"
 
-# AI Translated
 msgid "Auxiliary Nozzle"
 msgstr "Yardımcı Nozul"
 
-# AI Translated
 msgid "Auxiliary nozzle"
 msgstr "Yardımcı nozul"
 
-# AI Translated
 msgid "auxiliary nozzle"
 msgstr "yardımcı nozul"
 
@@ -106,59 +94,45 @@ msgstr "Ana Hotend"
 msgid "Main hotend"
 msgstr "Ana hotend"
 
-# AI Translated
 msgid "main hotend"
 msgstr "ana hotend"
 
-# AI Translated
 msgid "Auxiliary Hotend"
 msgstr "Yardımcı Hotend"
 
-# AI Translated
 msgid "Auxiliary hotend"
 msgstr "Yardımcı hotend"
 
-# AI Translated
 msgid "auxiliary hotend"
 msgstr "yardımcı hotend"
 
-# AI Translated
 msgid "Left Hotend"
 msgstr "Sol Hotend"
 
-# AI Translated
 msgid "Left hotend"
 msgstr "Sol hotend"
 
-# AI Translated
 msgid "left hotend"
 msgstr "sol hotend"
 
-# AI Translated
 msgid "Right Hotend"
 msgstr "Sağ Hotend"
 
-# AI Translated
 msgid "Right hotend"
 msgstr "Sağ hotend"
 
-# AI Translated
 msgid "right hotend"
 msgstr "sağ hotend"
 
-# AI Translated
 msgid "main"
 msgstr "ana"
 
-# AI Translated
 msgid "auxiliary"
 msgstr "yardımcı"
 
-# AI Translated
 msgid "Main"
 msgstr "Ana"
 
-# AI Translated
 msgid "Auxiliary"
 msgstr "Yardımcı"
 
@@ -1237,7 +1211,7 @@ msgid "Text move"
 msgstr "Metin taşıma"
 
 msgid "Set Mirror"
-msgstr "Aynayı Ayarla"
+msgstr "Aynalamayı ayarla"
 
 msgid "Embossed text"
 msgstr "Kabartmalı metin"
@@ -1784,10 +1758,10 @@ msgid "Lock/unlock rotation angle when dragging above the surface."
 msgstr "Yüzeyin üzerinde sürüklerken dönüş açısını kilitleyin/kilidini açın."
 
 msgid "Mirror vertically"
-msgstr "Dikey olarak yansıt"
+msgstr "Dikey aynala"
 
 msgid "Mirror horizontally"
-msgstr "Yatay olarak yansıt"
+msgstr "Yatay aynala"
 
 #. TRN: This is the name of the action that shows in undo/redo stack (changing part type from SVG to something else).
 msgid "Change SVG Type"
@@ -1795,7 +1769,7 @@ msgstr "SVG Türünü Değiştir"
 
 #. TRN - Input label. Be short as possible
 msgid "Mirror"
-msgstr "Ayna"
+msgstr "Aynala"
 
 msgid "Choose SVG file for emboss:"
 msgstr "Kabartma için SVG dosyasını seçin:"
@@ -2663,7 +2637,7 @@ msgid "Add Negative Part"
 msgstr "Negatif parça ekle"
 
 msgid "Add Modifier"
-msgstr "Değiştirici Ekle"
+msgstr "Değiştirici ekle"
 
 msgid "Add Support Blocker"
 msgstr "Destek engelleyici ekle"
@@ -2921,19 +2895,19 @@ msgid "Along X Axis"
 msgstr "X ekseni boyunca"
 
 msgid "Mirror along the X Axis"
-msgstr "X ekseni boyunca aynalama"
+msgstr "X ekseni boyunca aynala"
 
 msgid "Along Y Axis"
 msgstr "Y ekseni boyunca"
 
 msgid "Mirror along the Y Axis"
-msgstr "Y ekseni boyunca aynalama"
+msgstr "Y ekseni boyunca aynala"
 
 msgid "Along Z Axis"
 msgstr "Z ekseni boyunca"
 
 msgid "Mirror along the Z Axis"
-msgstr "Z ekseni boyunca aynalama"
+msgstr "Z ekseni boyunca aynala"
 
 msgid "Mirror object"
 msgstr "Nesneyi aynala"
@@ -3041,28 +3015,28 @@ msgid "Remove the selected plate"
 msgstr "Seçilen plakayı kaldır"
 
 msgid "Add instance"
-msgstr "Kopya ekle"
+msgstr "Eş kopya ekle"
 
 msgid "Add one more instance of the selected object"
-msgstr "Seçilen nesnenin bir örneğini daha ekle"
+msgstr "Seçili nesneye bir eş kopya (instance) ekle"
 
 msgid "Remove instance"
-msgstr "Kopyayı kaldır"
+msgstr "Eş kopyayı kaldır"
 
 msgid "Remove one instance of the selected object"
-msgstr "Seçilen nesnenin bir örneğini kaldır"
+msgstr "Seçili nesnenin bir eş kopyasını (instance) kaldır"
 
 msgid "Set number of instances"
-msgstr "Örnek sayısını ayarlayın"
+msgstr "Eş kopya sayısını ayarla"
 
 msgid "Change the number of instances of the selected object"
-msgstr "Seçilen nesnenin kopya sayısını değiştirme"
+msgstr "Seçili nesnenin eş kopya (instance) sayısını değiştir"
 
 msgid "Fill bed with instances"
-msgstr "Tablayı kopyalarla doldur"
+msgstr "Tablayı eş kopyalarla doldur"
 
 msgid "Fill the remaining area of bed with instances of the selected object"
-msgstr "Yatağın kalan alanını seçilen nesnenin örnekleriyle doldurun"
+msgstr "Tablanın kalan alanını seçili nesnenin eş kopyalarıyla (instances) doldur"
 
 msgid "Clone"
 msgstr "Klon oluştur"
@@ -8924,13 +8898,13 @@ msgid "Enable dark Mode"
 msgstr "Karanlık modu etkinleştir"
 
 msgid "Allow only one OrcaSlicer instance"
-msgstr "Yalnızca bir orca slicer örneğine izin ver"
+msgstr "Yalnızca tek bir OrcaSlicer eş kopyasına (instance) izin ver"
 
 msgid "On OSX there is always only one instance of app running by default. However it is allowed to run multiple instances of same app from the command line. In such case this settings will allow only one instance."
-msgstr "OSX’te her zaman varsayılan olarak çalışan tek bir uygulama örneği vardır. Ancak aynı uygulamanın birden fazla örneğinin komut satırından çalıştırılmasına izin verilir. Böyle bir durumda bu ayarlar yalnızca bir örneğe izin verecektir."
+msgstr "macOS'te varsayılan olarak uygulamanın yalnızca tek bir eş kopyası (instance) çalışır. Ancak komut satırından aynı uygulamanın birden fazla eş kopyası çalıştırılabilir. Bu durumda, bu ayar yalnızca tek bir eş kopyaya izin verecektir."
 
 msgid "If this is enabled, when starting OrcaSlicer and another instance of the same OrcaSlicer is already running, that instance will be reactivated instead."
-msgstr "Bu etkinleştirilirse, OrcaSlicer başlatıldığında ve aynı OrcaSlicer’ın başka bir örneği zaten çalışıyorken, bunun yerine bu örnek yeniden etkinleştirilecektir."
+msgstr "Bu seçenek etkinleştirildiğinde; OrcaSlicer başlatılırken aynı OrcaSlicer'ın başka bir eş kopyası (instance) zaten çalışıyorsa, yeni bir pencere yerine o eş kopya yeniden etkinleştirilir."
 
 msgid "Show splash screen"
 msgstr "Açılış ekranını göster"
@@ -12754,7 +12728,7 @@ msgid "Hostname, IP or URL"
 msgstr "Ana bilgisayar adı, IP veya URL"
 
 msgid "Orca Slicer can upload G-code files to a printer host. This field should contain the hostname, IP address or URL of the printer host instance. Print host behind HAProxy with basic auth enabled can be accessed by putting the user name and password into the URL in the following format: https://username:password@your-octopi-address/"
-msgstr "Orca Slicer, G kodu dosyalarını bir yazıcı ana bilgisayarına yükleyebilir. Bu alan, yazıcı ana bilgisayar örneğinin ana bilgisayar adını, IP adresini veya URL'sini içermelidir. Temel kimlik doğrulamanın etkin olduğu HAProxy'nin arkasındaki yazdırma ana bilgisayarına, kullanıcı adı ve parolanın aşağıdaki biçimdeki URL'ye girilmesiyle erişilebilir: https://username:password@your-octopi-address/"
+msgstr "OrcaSlicer, G-code dosyalarını bir yazıcı ana bilgisayarına yükleyebilir. Bu alan; yazıcı ana bilgisayar eş kopyasının (instance) ana bilgisayar adını, IP adresini veya URL'sini içermelidir. Temel kimlik doğrulaması etkin ve HAProxy arkasında çalışan yazıcı ana bilgisayarlarına URL içine kullanıcı adı ve parola şu biçimde eklenerek erişilebilir: https://kullaniciadi:parola@octopi-adresiniz/"
 
 msgid "Device UI"
 msgstr "Cihaz kullanıcı arayüzü"
@@ -13545,7 +13519,6 @@ msgstr "Nesneye göre"
 msgid "Intra-layer order"
 msgstr "Katman içi sıra"
 
-# AI Translated
 msgid ""
 "Order in which object instances are visited within a single layer, which controls how much travel is spent moving between them.\n"
 "\n"
@@ -13556,14 +13529,17 @@ msgid ""
 "\n"
 "With multiple filaments or tools in the same layer, minimizing tool changes takes priority: objects are grouped by filament first and this setting only orders the instances within each filament group, so the overall sequence may not look like the shortest path across the plate."
 msgstr ""
-"Tek bir katman içinde nesne örneklerinin hangi sırayla ziyaret edileceği; bu da aralarında ne kadar seyahat harcanacağını belirler.\n"
+"Tek bir katman içinde nesne eş kopyalarının (instances) basılma sırasıdır; bunlar arasındaki boşta hareket (travel) mesafesini ve süresini kontrol eder.\n"
 "\n"
-"Varsayılan: en yakın komşu zincirlemesi, 2-opt ve kesişim giderme ile iyileştirilir. İyi bir genel seçim.\n"
-"Nesne listesi olarak: örnekler, herhangi bir yol optimizasyonu olmadan nesne listesindeki sırayla yazdırılır. Öngörülebilir, elle denetlenen bir sıraya ihtiyacınız olduğunda kullanın.\n"
-"Hepsinin en iyisi (en kısa yol): her strateji değerlendirilir ve en kısa olanı kullanılır. Nesne örneklerinin sırası tüm baskı için bir kez belirlenir, tek tek adaların sırası ise her katman için ayrı belirlenir; bu nedenle farklı katmanlar farklı stratejiler kullanabilir. Dilimleme biraz daha yavaştır.\n"
-"Yılankavi: satır satır ilerleyen yılankavi geçiş, 2-opt ile iyileştirilir. Çok sayıda küçük parçadan oluşan düzenli ızgaralar için çok uygundur.\n"
+"Varsayılan (Default): 2-opt algoritması ve hat kesişimi giderme ile iyileştirilmiş en yakın komşu zincirleme yöntemi. Genel kullanım için dengeli ve ideal bir tercihtir.\n"
 "\n"
-"Aynı katmanda birden fazla filament veya araç varsa, araç değişimlerini en aza indirmek önceliklidir: nesneler önce filamente göre gruplanır ve bu ayar yalnızca her filament grubu içindeki örnekleri sıralar; bu nedenle genel sıra, tabla genelindeki en kısa yol gibi görünmeyebilir."
+"Nesne listesine göre (As object list): Eş kopyalar (instances), herhangi bir rota optimizasyonu yapılmadan doğrudan nesne listesindeki sıralamayla basılır. Manuel ve öngörülebilir bir sıra istendiğinde kullanılır.\n"
+"\n"
+"En iyisi / En kısa rota (Best of all - shortest path): Mevcut tüm stratejiler hesaplanır ve en kısa mesafe sunan rota seçilir. Nesne eş kopyalarının sırası tüm baskı için tek seferde kararlaştırılırken, bağımsız adacıkların sıralaması katman bazında hesaplanır (farklı katmanlarda farklı stratejiler devreye girebilir). Dilimleme süresini biraz uzatabilir.\n"
+"\n"
+"Kıvrımlı / Yılan (Snake): 2-opt ile optimize edilmiş satır satır kıvrımlı (serpantin) tarama rotası. Tablaya ızgara şeklinde dizilmiş çok sayıda küçük parçalı baskılar için son derece uygundur.\n"
+"\n"
+"Aynı katmanda birden fazla filament veya nozül/takım kullanıldığında, takım değişimlerini en aza indirmek önceliklidir: Nesneler önce filamente göre gruplanır; bu ayar ise sadece ilgili filament grubu içindeki eş kopyaları (instances) sıralar. Bu nedenle genel hareket sırası tablanın tamamına bakıldığında her zaman en kısa rota gibi görünmeyebilir."
 
 msgid "As object list"
 msgstr "Nesne listesi olarak"
@@ -14757,24 +14733,23 @@ msgid "Jerk of inner walls."
 msgstr "İç duvarlar sarsıntı değeri."
 
 msgid "Jerk for top surface."
-msgstr "Üst yüzey için JERK değeri."
+msgstr "Üst yüzey için Sarsıntı değeri."
 
 msgid "Jerk for infill."
-msgstr "Dolgu için JERK değeri."
+msgstr "Dolgu için Sarsıntı değeri."
 
 msgid "Jerk for the first layer."
-msgstr "İlk katman için JERK değeri."
+msgstr "İlk katman için Sarsıntı değeri."
 
 msgid "Jerk for travel."
-msgstr "Seyahat için JERK değeri."
+msgstr "Seyahat için Sarsıntı değeri."
 
-# AI Translated
 msgid ""
 "Travel jerk of first layer.\n"
 "The percentage value is relative to Travel Jerk."
 msgstr ""
-"İlk katmanın seyahat jerk'i.\n"
-"Yüzde değeri Seyahat Jerk'ine göredir."
+"İlk katmanın seyahat sarsıntısı (travel jerk).\n"
+"Yüzde değeri, Seyahat Sarsıntısı (Travel Jerk) değerine bağlıdır."
 
 msgid "Line width of the first layer. If expressed as a %, it will be computed over the nozzle diameter."
 msgstr "İlk katmanın çizgi genişliği. % olarak ifade edilirse Nozul çapı üzerinden hesaplanacaktır."
@@ -18342,10 +18317,10 @@ msgid "Total number of objects in the print."
 msgstr "Baskıdaki toplam nesne sayısı."
 
 msgid "Number of instances"
-msgstr "Örnek sayısı"
+msgstr "Eş kopya (instance) sayısı"
 
 msgid "Total number of object instances in the print, summed over all objects."
-msgstr "Tüm nesneler üzerinden toplanan, yazdırmadaki nesne örneklerinin toplam sayısı."
+msgstr "Tüm nesneler genelinde toplanmış, baskıdaki toplam nesne eş kopyası (instance) sayısı."
 
 msgid "Scale per object"
 msgstr "Nesne başına ölçeklendirme"
@@ -20356,9 +20331,8 @@ msgstr "İletişim kutusunu kapatıp projeyi incelemek için HAYIR'ı seçin."
 msgid "No project file on current session. Only logs will be included to package"
 msgstr "Geçerli oturumda proje dosyası yok. Pakete yalnızca günlükler eklenecek"
 
-# AI Translated
 msgid "Please make sure any instances of OrcaSlicer are not running"
-msgstr "Lütfen çalışan bir OrcaSlicer örneği olmadığından emin olun"
+msgstr "Lütfen hiçbir OrcaSlicer eş kopyasının (instance) çalışmadığından emin olun."
 
 # AI Translated
 msgid "System folder cannot be deleted because some files are in use by another application. Please close any applications using these files and try again."
@@ -20373,7 +20347,7 @@ msgid "Failed to determine executable path."
 msgstr "Yürütülebilir dosya yolu belirlenemedi."
 
 msgid "Failed to launch a new instance."
-msgstr "Yeni bir kopya başlatılamadı."
+msgstr "Yeni bir eş kopya (instance) başlatılamadı."
 
 # AI Translated
 msgid "log(s)"
@@ -21855,8 +21829,7 @@ msgstr ""
 "Baskılarınızı plakalara ayırın\n"
 "Çok sayıda parçası olan bir modeli baskıya hazır ayrı kalıplara bölebileceğinizi biliyor muydunuz? Bu, tüm parçaları takip etme sürecini basitleştirecektir."
 
-#: resources/data/hints.ini: [hint:Speed up your print with Adaptive Layer
-#: Height]
+#: resources/data/hints.ini: [hint:Speed up your print with Adaptive Layer Height]
 msgid ""
 "Speed up your print with Adaptive Layer Height\n"
 "Did you know that you can print a model even faster by using the Adaptive Layer Height option? Check it out!"
@@ -21929,8 +21902,7 @@ msgstr ""
 "Gücü artırın\n"
 "Modelin gücünü artırmak için daha fazla duvar halkası ve daha yüksek seyrek dolgu yoğunluğu kullanabileceğinizi biliyor muydunuz?"
 
-#: resources/data/hints.ini: [hint:When do you need to print with the printer
-#: door opened]
+#: resources/data/hints.ini: [hint:When do you need to print with the printer door opened]
 msgid ""
 "When do you need to print with the printer door opened?\n"
 "Did you know that opening the printer door can reduce the probability of extruder/hotend clogging when printing lower temperature filament with a higher enclosure temperature? There is more info about this in the Wiki."
